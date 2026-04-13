@@ -16,3 +16,9 @@ O algoritmo recomenda músicas com base nos gêneros que o usuário curtiu.
 ## 🛠️ Tecnologias
 - Neo4j Desktop 2.1.3
 - Cypher Query Language
+## 📸 Evidências Visuais
+
+### Grafo Completo
+
+
+![Grafo](Captura%20de%20tela%202026-04-13%20010325.png)
