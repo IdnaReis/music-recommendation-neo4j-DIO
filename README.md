@@ -22,3 +22,8 @@ O algoritmo recomenda músicas com base nos gêneros que o usuário curtiu.
 
 
 ![Grafo](Captura%20de%20tela%202026-04-13%20010325.png)
+
+## 👩‍💻 Autora
+
+*Idna Reis*  
+[GitHub](https://github.com/IdnaReis)
